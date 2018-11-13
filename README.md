@@ -1,4 +1,4 @@
-# 50_layer_Resnet for predicting the activity using only molecular 2d Images
+# 50_layer_Resnet for predicting the activity using only molecular 2D Images
 50 Layer Resnet to predict the regression values of Tetrahymena pyriformis IGC50
 
 This post is inspired from the following papers and blog posts.
